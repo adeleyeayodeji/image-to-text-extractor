@@ -1,0 +1,23 @@
+body{
+	padding-top: 90px;
+	background: #1d3a75;
+	font-family: calibri;
+}
+.container{
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+	background: white;
+	padding: 20px;
+	padding-bottom: 30px;
+	border-radius: 5px;
+}
+h2{
+	text-align: center;
+}
+form input{
+	width: 200px;
+	outline: none;
+	border:none;
+	border-bottom: 1px solid black;
+}
